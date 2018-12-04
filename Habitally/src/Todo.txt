@@ -1,0 +1,9 @@
+ToDo:
+Need to implement daily repetitions Focus on daily only atm (weekly will make it to complicated)
+need daily rep target and current daily rep values
+need to add incrementor to habit button click
+need to add edit button to habit button
+need to add rep setting to manage options
+
+Last Time:
+Added ability to save new/update habits (10/14/2018)
